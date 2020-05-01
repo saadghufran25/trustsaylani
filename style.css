@@ -1,0 +1,252 @@
+body{
+    background-color: lightgray;
+
+    width:100%;
+    min-width:100px;
+    height:100%;
+    min-height: 400px; @media (min-width: 576px)
+    
+
+
+
+}
+.one{
+ background-color: blue; 
+ height: auto; width: auto;
+
+color: white;
+text-align: center;  
+display: flex ;  !important
+justify-content: space-between;  
+
+justify-content: space-around;  !important flex-wrap: wrap;
+
+min-width: 100px; 
+
+
+
+
+
+
+
+}
+.two{
+text-align: left; 
+justify-content: left;  
+justify-content: space-between;  flex-wrap: wrap; min-width: 100px;
+}
+
+
+
+
+.five{
+
+background-color: whitesmoke; !important
+height: auto;  
+ flex-wrap: wrap;
+text-align: right;
+cursor: pointer; min-width: 20px;  
+
+
+
+
+
+}
+.six{ position: absolute;
+min-width: 10px;
+
+}
+
+.seven{   text-align: center;
+    color: blue;
+font-size: 35px;
+font-style: initial;
+
+font-display: bold;
+font-family: Arial, Helvetica, sans-serif;
+background-color: lightgrey;
+min-width: 100px;
+     
+}
+
+.eight{ font-size: 15px; color:   grey;
+    justify-content: space-between; 
+    justify-content: space-around; 
+text-align: left;  !important m
+min-width: 100px;
+
+}
+
+.nine{
+text-align: center;
+background-color: blue;
+color: white; 
+min-width: 100px;
+
+
+}
+.btn btn-light:hover{ background-color: blue;
+
+
+}
+
+.ten{  height: auto;     background-color: blue;
+
+font-size: 22px; display: inline-block;
+
+text-align: center;  justify-content: space-between; 
+justify-content: space-around; 
+color: white; 
+width: auto; 
+
+}
+
+
+
+
+.eleven{  font-size: 35px;
+    text-align: center ; color: green; background-color: lightgrey;
+    min-width: 100px;
+
+
+}
+
+.twelve{ font-size: 22px;
+    color: blue; display: flex;  text-align: center;
+    
+    justify-content: space-around;
+    justify-content: space-between;
+    height: 300px; width: 300px;
+    border-width: 2px;
+inline-size: 0em;
+background-color: white; min-width: 100px;
+}
+.twelve {
+    width: 300px; height: 300px
+      solid; color:white; background-color: white;
+    padding: 50px; color: black;
+    align-content: flex-start; justify-content: flex-start;
+    margin: 20px;  display: flex ; flex: 1; flex-direction: row; justify-content: space-around;
+    justify-content: space-between;      grid-row: auto;     display: inline-block; min-width: 100px;
+       }
+
+
+
+       .thirteen{  font-size: 35px;
+        text-align: center ; color: green; background-color: lightgrey;
+        min-width: 100px;
+    
+    
+    }
+
+       .fourteen{ font-size: 22px;
+        color: blue; display: flex;  text-align: center;
+        
+        justify-content: space-around;
+        justify-content: space-between;
+        height: 300px; width: 300px;
+        border-width: 2px;
+    inline-size: 0em; min-width: 100px;
+    background-color: white;
+    }
+    .fourteen {
+        width: 300px; height: 300px
+          solid; color:white; background-color: white;
+        padding: 30px; color: black;
+        align-content: flex-start; justify-content: flex-start;
+        margin: 20px;  display: flex ; flex: 1; flex-direction: row; justify-content: space-around;
+        justify-content: space-between;      grid-row: auto;     display: inline-block; min-width: 100px;
+           }
+    
+
+
+button:hover{
+
+    background-color: blue;
+}
+
+.fifteen{
+
+    text-align: left; display: inline-block; float: left;
+}
+
+
+.sixteen{
+ color: blue;
+ text-align: left;
+ font-size: 30px;
+
+
+
+}
+.seventeen{
+    width: 300px; height: 30px
+    
+    solid; color:white; background-color: white;
+  padding: 25px; color: black;
+  align-content: flex-start; justify-content: flex-start;
+  margin: 10px;  display: flex ;  flex-direction: row; justify-content: space-around;
+  justify-content: space-between;      grid-row: auto;     display: inline-block; 
+font-size: 15px;
+}
+.eighteen{
+
+font-size: 30px;
+text-align: right;
+display: inline-block; text-align: right;
+font-size: 15px; width: 300px; height: 300px
+solid; color:white; background-color:lightgray;
+padding: 20px; color: black;
+align-content: flex-start; 
+margin: 10px;  flex-direction: row; justify-content: space-around;
+justify-content: space-between;         display: inline-block; min-width: 100px;
+ }
+
+.nineteen{
+
+    font-size: 15px; width: 300px; height: 300px
+    solid;  background-color:lightgray;
+  padding: 30px; color: black;
+ 
+  margin: 20px; 
+      display: inline-block; min-width: 100px;
+     
+}
+
+.twentyone{
+    font-size: 35px;
+    text-align: center;
+    display: inline-block; color: green;
+}
+
+.twenty{
+    font-size: 35px; justify-content: space-between; justify-content: space-around;
+    text-align: center ; color: blue;
+}
+
+
+
+.twentytwo{
+
+height: 350px; width: auto;  color: lightgray; background-color: grey; text-align: left;
+}
+
+.twentythree{
+
+height: 30px; width: auto; background-color: blue; color: white;
+
+}
+.thirtyone{
+
+ text-align: right; text-align: initial;
+  justify-content: space-between;}
+
+
+.siddiqui{
+
+
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+}
